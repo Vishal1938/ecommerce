@@ -1,0 +1,46 @@
+.navStyle{
+    background-color: rgb(119, 75, 159);
+    color:white;
+    padding:10px;
+    display: flex;
+
+}
+
+.Title{
+    width:30%;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.NavItems{
+    width:50%;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    margin-right: 50px;
+}
+
+buttons{
+    width: 20%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   
+}
+
+button{
+    background-color: brown;
+    color:aliceblue;
+    padding:20px 10px;
+    font-size: large;
+    font-weight: bold;
+}

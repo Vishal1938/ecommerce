@@ -1,0 +1,21 @@
+.formContainer {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .customInput {
+    width: 100%;
+    height: 30px; /* Customize the height here */
+    font-size: 1rem; /* Customize the font size if needed */
+  }
+  
+  .formContainer input {
+    border-radius: 4px;
+  }
+  
+  .formContainer button {
+    border-radius: 4px;
+  }
+  

@@ -1,0 +1,15 @@
+.cardContainer{
+    width: 350px;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 0 0 10px black;
+}
+
+Button{
+    background-color: aqua;
+    border-radius: 5px;
+    padding: 5px auto;
+    margin-right: 10px ;
+    height: 10px;
+    color: black;
+}
